@@ -79,7 +79,7 @@ Customer-Shopping-Behavior-Analysis/
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ```text
 Raw Dataset
@@ -102,7 +102,7 @@ Business Recommendations
 
 ---
 
-## 🧹 Data Cleaning & Preprocessing
+##  Data Cleaning & Preprocessing
 
 * Imported dataset using Pandas
 * Checked dataset structure and summary statistics
